@@ -1,0 +1,70 @@
+*{
+margin-left: 40px;
+}
+
+body{
+    border: 5px light grey;
+}
+
+.logo{
+    height: 100px;
+    width: 200px;
+    margin-top: 25px;
+    margin-bottom: 40px;
+    margin-left: 50px;
+}
+
+.extra-margin{
+    margin-top: 200px;
+}
+
+.btn{
+    width: 300px;
+    margin-top: 20px;
+}
+
+.form{
+    border: 1px solid lightgrey;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 3px;
+}
+
+#Email-input{
+font-size: 10px;
+}
+
+#password-input{
+    font-size: 10px;
+}
+
+.sign-in{
+    margin-bottom: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: yellow;
+}
+
+.legal{
+    font-size: 10px;
+    color: blue;
+    margin-top: 30px;
+}
+
+.footer-1{
+    width:max-content;
+    height: 350px;
+    background-color: #fff;
+    margin-top: 30px;
+}
+
+#sign-in{
+    margin-bottom: 10px;
+}
+
+#Createbutton{
+background-color: lightgrey;
+border: black;
+}
